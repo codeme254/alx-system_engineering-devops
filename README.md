@@ -1,1 +1,1 @@
-learning about command line
+learning the command line
