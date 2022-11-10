@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Prints the text Best School 10 times
 # the syntax is for i in {start..stop}
 # start is where you want your loop to begin
