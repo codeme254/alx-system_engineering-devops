@@ -10,7 +10,7 @@
 
 FILE="school"
 
-if [ "$FILE" ];
+if [ -e "$FILE" ];
 then
 echo "school file exists"
 if [ -s "$FILE" ];
