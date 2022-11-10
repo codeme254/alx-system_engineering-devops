@@ -5,4 +5,4 @@
 git add .
 git commit -m "$1"
 git push
-echo "pushing to remote..."
+echo "pushed to remote with the commit message $1"
