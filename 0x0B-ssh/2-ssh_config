@@ -1,0 +1,6 @@
+# SecureSHell configruation file sample
+# configuration to use the private key ~/.ssh/school
+# configuration to refuse authentication using password
+Host *
+      PasswordAuthentication no
+      IdentifyFile ~/.ssh/school 
